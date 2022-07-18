@@ -1,8 +1,24 @@
-![image](https://user-images.githubusercontent.com/25766540/179535515-dd4fdae2-ef21-4dab-8b98-523671182d84.png)
-<h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A Cyber Security Specialist from the Netherlands</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maximand&label=Profile%20views&color=0e75b6&style=flat" alt="maximand" /> </p>
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class SecurityEngineer:
+
+    def __init__(self):
+        self.name = "Max van der Horst"
+        self.role = "Security Specialist"
+        self.company = "Northwave CERT"
+        self.language_spoken = ["nl_NL", "en_US"]
+
+    def do_starswars_meme(self):
+        print("Hello there!")
+
+me = SecurityEngineer()
+me.do_starwars_meme()
+```
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maximand&label=Profile%20views&color=0e75b6&style=flat" alt="maximand" /> </p>
 
 
 - 🔭 I’m currently working on [DIVD (Academy)](https://divd.nl)
