@@ -27,7 +27,7 @@ me.do_starwars_meme()
 
 - 💬 Ask me about **Cyber Threat Intelligence and Malware**
 
-- 📫 How to reach me **m.van.der.horst@divd.nl**
+- 📫 How to reach me **max@divd.nl**
 
 - ⚡ Fun fact **humans lost a war against emus in 1932.**
 
