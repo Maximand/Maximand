@@ -11,7 +11,7 @@ class SecurityEngineer:
         self.company = "Northwave CERT"
         self.language_spoken = ["nl_NL", "en_US"]
 
-    def do_starswars_meme(self):
+    def do_starwars_meme(self):
         print("Hello there!")
 
 me = SecurityEngineer()
