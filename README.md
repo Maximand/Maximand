@@ -3,18 +3,18 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class SecurityEngineer:
+class SecurityResearcher:
 
     def __init__(self):
         self.name = "Max van der Horst"
-        self.role = "Security Specialist"
-        self.company = "Northwave CERT"
+        self.role = "Security Researcher"
+        self.company = "Thales Research & Technology"
         self.language_spoken = ["nl_NL", "en_US"]
 
     def do_starwars_meme(self):
         print("Hello there!")
 
-me = SecurityEngineer()
+me = SecurityResearcher()
 me.do_starwars_meme()
 ```
 
