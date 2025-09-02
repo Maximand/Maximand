@@ -21,9 +21,9 @@ me.do_starwars_meme()
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maximand&label=Profile%20views&color=0e75b6&style=flat" alt="maximand" /> </p>
 
 
-- 🔭 I’m currently working on [DIVD (Academy)](https://divd.nl)
+- 🔭 I’m currently working on Coordinated Vulnerability Disclosure
 
-- 🌱 I’m currently learning **Digital Forensics**
+- 🌱 I’m currently learning Anti-Abuse Strategy
 
 - 💬 Ask me about **Cyber Threat Intelligence and Malware**
 
